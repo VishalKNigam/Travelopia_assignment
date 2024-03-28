@@ -13,9 +13,9 @@
   </head>
   <body>
     <div class="parent-container">
-      <!-- 1=> NavBar -->
+      <!-- NAVBAR -->
       <nav>
-        <a href="#" class="title">
+        <a href="#" class="title" onclick="handleClose()">
           <span class="firstText">T</span>
           <span class="secondWord">ravelopia</span>
         </a>
@@ -28,14 +28,14 @@
         </div>
         <!-- All Links -->
         <ul id="navLinks" class="hidden">
-          <li><a href="" onclick="handleClose()">About</a></li>
-          <li><a href="" onclick="handleClose()">Services</a></li>
-          <li><a href="" onclick="handleClose()">Gallery</a></li>
-          <li><a href="" onclick="handleClose()">Booking</a></li>
-          <li><a href="" onclick="handleClose()">Contact</a></li>
+          <li><a href="#" onclick="handleClose()">About</a></li>
+          <li><a href="#" onclick="handleClose()">Services</a></li>
+          <li><a href="#" onclick="handleClose()">Gallery</a></li>
+          <li><a href="#" onclick="handleClose()">Booking</a></li>
+          <li><a href="#" onclick="handleClose()">Contact</a></li>
         </ul>
       </nav>
-      <!-- 2=> MidSection -->
+      <!-- MIDSECTION -->
       <div class="hero">
         <!-- Image -->
         <img
@@ -47,20 +47,19 @@
           <h1>EXPERIENTIAL TRAVEL<span class="lastWord"> BRANDS</span></h1>
           <button id="openModalBtn">Click Here</button>
         </div>
-         <!-- overlay -->
-         <div class="overlay"></div>
-
-      </div>
-      <!-- The Modal -->
-      <div id="myModal" class="modal">
-        <!-- Modal content -->
-        <div class="modal-content">
-          <span class="close">&times;</span>
-          <p>Hello World!</p>
+        <!-- Modal -->
+        <div id="myModal" class="modal">
+          <!-- Modal content -->
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Hello World!</p>
+          </div>
         </div>
+        <!-- Overlay -->
+        <div class="overlay"></div>
       </div>
 
-      <!-- 3=> Footer -->
+      <!-- FOOTER -->
       <footer>
         <p>All Rights Reserved. @2024 Travelopia</p>
       </footer>
