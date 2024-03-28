@@ -6,7 +6,7 @@ Travelopia is a web application designed for travelers to explore destinations, 
 
 ## Deployed Link
 
-[Travelopia App](https://66050d3ad449914b6a48a735--cozy-bonbon-d6b202.netlify.app/#)
+The project is deployed and accessible at:-[Travelopia App](https://66050d3ad449914b6a48a735--cozy-bonbon-d6b202.netlify.app/#)
 
 ## Features
 
@@ -34,5 +34,30 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: `https://github.com/VishalKNigam/Travelopia_assignment`
 2. Open the `index.html` file in your preferred web browser.
+
+## Screenshots
+
+### Large Screen
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 10px;">
+    <p align="center"><img width="500" alt="large-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia_assignment/blob/main/Images/large-sreen.png?raw=true"></p>
+    <p align="center"><strong>Explore destinations with Travelopia</strong></p>
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <p align="center"><img width="500" alt="large-screen-alert-screenshot" src="https://github.com/VishalKNigam/Travelopia_assignment/blob/main/Images/large-screen-alert.png?raw=true"></p>
+    <p align="center"><strong>Alert message on a large screen</strong></p>
+  </div>
+</div>
+
+### Medium Screen
+
+<p align="center"><img width="500" alt="medium-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia_assignment/blob/main/Images/medim-screen.png?raw=true"></p>
+<p align="center"><strong>Optimized layout for medium-sized screens</strong></p>
+
+### Small Screen
+
+<p align="center"><img width="300" alt="small-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia_assignment/blob/main/Images/small-screen.png?raw=true"></p>
+<p align="center"><strong>Responsive design for small screens</strong></p>
 
 **Thank you for your support! We welcome your feedback.**
