@@ -27,6 +27,9 @@ nav .title{
 nav .title .firstText{
     color: var(--primary);
 }
+nav .title span{
+  white-space: nowrap;
+}
 nav ul{
     display: flex;
     background-color: var(--primary);
