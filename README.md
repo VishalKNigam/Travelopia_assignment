@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 ### Small Screen
 
-<p align="center"><img width="300" alt="small-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia_assignment/blob/main/Images/small-screen.png?raw=true"></p>
+<p align="center"><img width="300" alt="small-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia_assignment/blob/main/Images/smaller-screen.png?raw=true"></p>
 <p align="center"><strong>Responsive design for small screens</strong></p>
 
 **Thank you for your support! We welcome your feedback.**
