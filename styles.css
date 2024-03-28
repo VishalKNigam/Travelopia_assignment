@@ -184,6 +184,7 @@ footer {
   place-content: center;
   background-color: var(--secondary);
   font-weight: bolder;
+  font-size: 1.3rem;
 }
 
 /* Media Queries */
@@ -228,15 +229,38 @@ footer {
   .hero .text h1 {
     font-size: 2.5rem;
   }
+  .modal-content{
+    font-size: large;
+
+  }
+  footer{
+    font-size: 1.2rem;
+  }
 }
 @media (max-width: 720px){
   .hero .text h1 {
     font-size: 2rem;
   }
 }
-@media (max-width: 500px){
+@media (max-width: 540px){
   .hero .text h1 {
     font-size: 1.3rem;
+  }
+  footer{
+    font-size: 1rem;
+  }
+}
+@media (max-width: 365px) {
+  .hero .text h1 {
+    font-size: 1.2rem;
+  }
+  footer{
+    font-size: 0.8rem;
+    word-wrap: break-word;
+  }
+  .modal-content{
+    font-size: small;
+
   }
 }
 
@@ -253,5 +277,13 @@ footer {
   }
   .hero .text h1 {
     font-size: 1rem;
+  }
+  .modal-content{
+    font-size: small;
+
+  }
+  footer{
+    font-size: 0.6rem;
+    word-wrap: break-word;
   }
 }
