@@ -6,7 +6,7 @@ Travelopia is a web application designed for travelers to explore destinations, 
 
 ## Deployed Link
 
-The project is deployed and accessible at:-[Travelopia App](https://66050d3ad449914b6a48a735--cozy-bonbon-d6b202.netlify.app/#)
+The project is deployed and accessible at:-[Travelopia App](https://6605542e105ccb184ea1c3b5--incandescent-peony-297575.netlify.app/)
 
 ## Features
 
